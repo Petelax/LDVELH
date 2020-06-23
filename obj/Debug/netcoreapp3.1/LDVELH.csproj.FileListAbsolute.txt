@@ -1,0 +1,13 @@
+C:\Users\pxion\Desktop\cancer\LDVELH\bin\Debug\netcoreapp3.1\LDVELH.exe
+C:\Users\pxion\Desktop\cancer\LDVELH\bin\Debug\netcoreapp3.1\LDVELH.deps.json
+C:\Users\pxion\Desktop\cancer\LDVELH\bin\Debug\netcoreapp3.1\LDVELH.runtimeconfig.json
+C:\Users\pxion\Desktop\cancer\LDVELH\bin\Debug\netcoreapp3.1\LDVELH.runtimeconfig.dev.json
+C:\Users\pxion\Desktop\cancer\LDVELH\bin\Debug\netcoreapp3.1\LDVELH.dll
+C:\Users\pxion\Desktop\cancer\LDVELH\bin\Debug\netcoreapp3.1\LDVELH.pdb
+C:\Users\pxion\Desktop\cancer\LDVELH\obj\Debug\netcoreapp3.1\LDVELH.csprojAssemblyReference.cache
+C:\Users\pxion\Desktop\cancer\LDVELH\obj\Debug\netcoreapp3.1\LDVELH.csproj.CoreCompileInputs.cache
+C:\Users\pxion\Desktop\cancer\LDVELH\obj\Debug\netcoreapp3.1\LDVELH.AssemblyInfoInputs.cache
+C:\Users\pxion\Desktop\cancer\LDVELH\obj\Debug\netcoreapp3.1\LDVELH.AssemblyInfo.cs
+C:\Users\pxion\Desktop\cancer\LDVELH\obj\Debug\netcoreapp3.1\LDVELH.dll
+C:\Users\pxion\Desktop\cancer\LDVELH\obj\Debug\netcoreapp3.1\LDVELH.pdb
+C:\Users\pxion\Desktop\cancer\LDVELH\obj\Debug\netcoreapp3.1\LDVELH.genruntimeconfig.cache
