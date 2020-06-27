@@ -11,3 +11,5 @@ How to run:
 5. Ignore any anti-virus telling you to not run the program and run anyway.
 
 Oh, by the way I have no idea how Macs work, so you'd probably need to figure out how to run an .exe which is designed for Windows 10 on MacOS.
+
+Most of my code is in Program.cs. So if you'd like to see my code, click on Program.cs.
